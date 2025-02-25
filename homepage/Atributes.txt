@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/4888377/how-to-add-a-browser-tab-icon-favicon-for-a-website
+https://getbootstrap.com/docs/5.1/components/card/
+https://www.w3schools.com/js/js_random.asp
+https://www.youtube.com/watch?v=_or4TOKGYiY&ab_channel=DevDuck
