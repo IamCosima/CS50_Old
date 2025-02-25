@@ -1,0 +1,40 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Home
+{% endblock %}
+
+{% block main %}
+<form action="/" method="post">
+    <table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Symbol</th>
+            <th>Name</th>
+            <th>Shares</th>
+            <th>Price</th>
+            <th>TOTAL</th>
+        </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+            </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="4">Cash</td>
+            <td>{{money}}</td>
+        </tr>
+        <tr>
+            <td colspan="4">TOTAL</td>
+            <td>{{grandtotal}}</td>
+        </tr>
+    </tfoot>
+</table>
+
+{% endblock %}
