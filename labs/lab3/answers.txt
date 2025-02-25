@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Using the Sorted lists it performed the best out of the remaining two threrfore it is the bubble sort
+
+sort2 uses: Merge Sort
+
+How do you know?: using the randome list of 10000 it performed the fastest out of the three threfore it is the Merge sort
+
+sort3 uses: Selection Sort
+
+How do you know?: Using all the lists provided we can tell this is selection sort as it performed in the worst of the two other sorting algorithms
